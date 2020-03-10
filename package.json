@@ -1,0 +1,25 @@
+{
+  "name": "@wiajs/template",
+  "version": "0.1.0",
+  "description": "Templates of wia app",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wiajs/template.git"
+  },
+  "keywords": [
+    "wia",
+    "preset"
+  ],
+  "author": {
+    "name": "Sibyl Yu",
+    "email": "sibyl@wia.pub"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wiajs/preset/issues"
+  },
+  "homepage": "https://www.wia.pub/preset",
+  "publishConfig": {
+    "access": "public"
+  }
+}

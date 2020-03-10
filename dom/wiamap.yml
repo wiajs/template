@@ -1,0 +1,8 @@
+build:
+update:
+  js: []
+  html:
+    - index.html
+  css: []
+  less: []
+  asset: []
