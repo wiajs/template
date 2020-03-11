@@ -1,6 +1,6 @@
 {
   "name": "@wiajs/template",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Templates of wia app",
   "repository": {
     "type": "git",
